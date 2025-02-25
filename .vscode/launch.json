@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HotelbediaxApplication<hotelbediax>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.hotels.bediax.hotelbediax.HotelbediaxApplication",
+            "projectName": "hotelbediax",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
